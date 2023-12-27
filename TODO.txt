@@ -1,0 +1,3 @@
+To do list:
+
+Multiplayer support including offline mode and I mean you can play without internet for real.
